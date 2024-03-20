@@ -7,6 +7,8 @@ const STRUCTURE = {
   PAYMENT_METHOD: 'phuongthuc',
   PHONE: 'sdt',
   TOTAL_AMOUNT: 'tongtien',
-  ORDER_STATUS: 'trangthai'
+  ORDER_STATUS: 'trangthai',
+  PAYMENT_STATUS: 'paymentStatus',
+  TRANSACTION_CODE: 'transactionCode',
 }
 module.exports = STRUCTURE;
